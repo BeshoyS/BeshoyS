@@ -2,7 +2,7 @@
 
 Beshoy S. Said - Junior Front-end web Developer looking for a remote job.
 
-Based in Poland.
+I'm from Egypt🇪🇬, Currently Based in Poland🇵🇱.
 
 ### 💻 Technologies
 
