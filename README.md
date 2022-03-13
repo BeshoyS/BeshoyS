@@ -2,7 +2,7 @@
 
 Beshoy S. Said - Junior Front-end web Developer looking for a remote job.
 
-I'm from Egypt🇪🇬, Currently Based in Poland🇵🇱.
+I'm from Egypt :egypt:, Currently Based in Poland :poland:.
 
 ### 💻 Technologies
 
@@ -15,6 +15,7 @@ I'm from Egypt🇪🇬, Currently Based in Poland🇵🇱.
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="24" height="24" title="React">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24" height="24" title="GIT">
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="24" height="24" title="Github">
+  <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width="24" height="24" title="VS Code">
 <!--   <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" width="24" height="24" title="Next"> -->
 <!--   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="24" height="24" title="styled-components"> -->
 <!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="24" height="24" title="NodeJS">
