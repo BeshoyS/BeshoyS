@@ -26,26 +26,27 @@ Based in Poland.
 
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="24" height="24" title="Redux">
-  <img src="https://nestjs.com/img/logo-small.svg" width="24" height="24" title="NestJS">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="24" height="24" title="Vue">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="24" height="24" title="Sass">
+<!--   <img src="https://nestjs.com/img/logo-small.svg" width="24" height="24" title="NestJS"> -->
+<!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="24" height="24" title="Vue"> -->
 </div>
 
 ### 🎓 I want to learn
 
 <div>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width="24" height="24" title="React Native">
+<!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width="24" height="24" title="React Native">
   <img src="https://svelte.dev/svelte-logo-horizontal.svg" width="24" height="24" title="Svelte">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="24" height="24" title="Angular">  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="24" height="24" title="Angular">   -->
 </div>
 
 ### ⭐ Socials
 
-<a href="https://www.linkedin.com/in/matheus-landuci-2523a91a0/">
-  <img src="https://img.shields.io/badge/Matheus%20Landuci-Linkedin?logo=linkedin&style=for-the-badge&color=0a66c2" alt="Linkedin - Matheus Landuci da Silva">
+<a href="https://www.linkedin.com/in/beshoy-s-said/">
+  <img src="https://img.shields.io/badge/Beshoy%20S.%20Said-Linkedin?logo=linkedin&style=for-the-badge&color=0a66c2" alt="Linkedin - Beshoy S. Said">
 </a>
-<a href="mailto:matheuslanduci@gmail.com">
-  <img src="https://img.shields.io/badge/MatheusLanduci@gmail.com-Gmail?logo=gmail&logoColor=fff&style=for-the-badge&color=d93025" alt="Gmail - matheuslanduci@gmail.com">
+<a href="mailto:beshoys.said@gmail.com">
+  <img src="https://img.shields.io/badge/beshoys.said@gmail.com-Gmail?logo=gmail&logoColor=fff&style=for-the-badge&color=d93025" alt="Gmail - beshoys.said@gmail.com">
 </a>
-<a href="https://www.matheuslanduci.com">
-  <img src="https://img.shields.io/badge/matheuslanduci.com-website?style=for-the-badge&color=27abbc" alt="Website - matheuslanduci.com">
+<a href="https://beshoys.github.io/">
+  <img src="https://img.shields.io/badge/https://beshoys.github.io/-website?style=for-the-badge&color=27abbc" alt="Portfolio - Coming Soon">
 </a>
