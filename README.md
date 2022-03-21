@@ -16,8 +16,7 @@ I'm from Egypt :egypt:, Currently Based in Poland :poland:.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24" height="24" title="GIT">
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="24" height="24" title="Github">
   <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width="24" height="24" title="VS Code">
-<!--   <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" width="24" height="24" title="Next"> -->
-<!--   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="24" height="24" title="styled-components"> -->
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="24" height="24" title="Sass">
 <!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="24" height="24" title="NodeJS">
   <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" width="24" height="24" title="GraphQL">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="24" height="24" title="MySQL">
@@ -31,9 +30,10 @@ I'm from Egypt :egypt:, Currently Based in Poland :poland:.
 
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="24" height="24" title="Redux">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="24" height="24" title="Sass">
-  <img src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" width="24" height="24" title="Tailwind CSS">
+<!--   <img src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" width="24" height="24" title="Tailwind CSS"> -->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="24" height="24" title="Typescript">
+  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" width="24" height="24" title="Next">
+  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="24" height="24" title="styled-components">
 <!--   <img src="https://nestjs.com/img/logo-small.svg" width="24" height="24" title="NestJS"> -->
 <!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="24" height="24" title="Vue"> -->
 </div>
@@ -54,9 +54,9 @@ I'm from Egypt :egypt:, Currently Based in Poland :poland:.
 <a href="mailto:beshoys.said@gmail.com">
   <img src="https://img.shields.io/badge/Contact%20Me-Gmail?logo=gmail&logoColor=fff&style=for-the-badge&color=d93025" alt="Gmail - beshoys.said@gmail.com">
 </a>
-<a href="https://beshoys.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-website?style=for-the-badge&color=27abbc" alt="Portfolio - Coming Soon">
+<a href="https://beshoys.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-website?style=for-the-badge&color=27abbc" alt="Portfolio">
 </a>
-<a href="https://beshoys.github.io/">
-  <img src="https://img.shields.io/badge/Resume-website?style=for-the-badge&color=3450a1" alt="Portfolio - Coming Soon">
+<a href="https://drive.google.com/file/d/1UsEvSlS_E77e4LsQbR7dwkWrcWh0_ZYx/view">
+  <img src="https://img.shields.io/badge/Resume-website?style=for-the-badge&color=3450a1" alt="Resume">
 </a>
