@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<h3>I'm Beshoy S. Said </h3> Junior Front-end web Developer looking for a remote job.
-
-I'm Based in Poland :poland:.
+<h3>I'm Beshoy S. Said </h3> Junior Front-end web Based in Poland Developer, looking for a junior position.
 
 ### 💻 Technologies
 
