@@ -2,7 +2,7 @@
 
 <h3>I'm Beshoy S. Said </h3> Junior Front-end web Developer looking for a remote job.
 
-I'm from Egypt :egypt:, Currently Based in Poland :poland:.
+I'm Based in Poland :poland:.
 
 ### 💻 Technologies
 
