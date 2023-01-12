@@ -28,7 +28,7 @@
 
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="24" height="24" title="Redux">
-<!--   <img src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" width="24" height="24" title="Tailwind CSS"> -->
+  <img src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" width="24" height="24" title="Tailwind CSS">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="24" height="24" title="Typescript">
   <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" width="24" height="24" title="Next">
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="24" height="24" title="styled-components">
