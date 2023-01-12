@@ -51,6 +51,6 @@
 <a href="https://beshoys.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-website?style=for-the-badge&color=27abbc" alt="Portfolio">
 </a>
-<a href="https://drive.google.com/file/d/1UsEvSlS_E77e4LsQbR7dwkWrcWh0_ZYx/view">
+<a href="https://drive.google.com/file/d/16fYkKwcYSR3lLAnHxPt92AOMgL7w-NqR/view">
   <img src="https://img.shields.io/badge/Resume-website?style=for-the-badge&color=3450a1" alt="Resume">
 </a>
