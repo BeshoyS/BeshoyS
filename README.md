@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I'm Beshoy S. Said </h3> Junior Front-end web Based in Poland Developer, looking for a junior position.
+<h3>I'm Beshoy S. Said </h3> Junior Software Dev @ Hemmersbach, Based in Poland.
 
 ### 💻 Technologies
 
